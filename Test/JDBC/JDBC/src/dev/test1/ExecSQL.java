@@ -47,7 +47,7 @@ class ExecSQL
                 for (String s:fileSql4) {
                     executeSql(stat, s);
                 }
-
+                stat.close();
             }
             finally
             {
@@ -78,7 +78,7 @@ class ExecSQL
         return DriverManager.getConnection(url);
     }
 
-    private static void executeSql(Statement statement, String line) throws SQLException{
+    private static void executeSql(Statement statement, String line){
         try
         {
             boolean hasResultSet = statement.execute(line);
@@ -96,25 +96,25 @@ class ExecSQL
     private static Vector<String> getSqlSyntaxList(File file){
         Vector<String> result = new Vector<String>();
 
-        FileReader fileReader = null;
+        FileReader fileReader;
+        Scanner in;
         try {
-                fileReader = new FileReader(file);
+            fileReader = new FileReader(file);
+            in = new Scanner(fileReader);
+
+            while (true){
+                if (!in.hasNextLine())
+                    break;
+                String line = in.nextLine();
+                if (line.trim().endsWith(";")) // remove trailing semicolon
+                {
+                    line = line.trim();
+                    line = line.substring(0, line.length() - 1);
+                    result.add(line);
+                }
+            }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
-        }
-
-        Scanner in = new Scanner(fileReader);
-
-        while (true){
-            if (!in.hasNextLine())
-                break;
-            String line = in.nextLine();
-            if (line.trim().endsWith(";")) // remove trailing semicolon
-            {
-                line = line.trim();
-                line = line.substring(0, line.length() - 1);
-                result.add(line);
-            }
         }
 
         return  result;
@@ -135,6 +135,7 @@ class ExecSQL
 
         while (result.next())
         {
+            //从1开始
             for (int i = 1; i <= columnCount; i++)
             {
                 if (i > 1) System.out.print(", ");

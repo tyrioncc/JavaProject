@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS Authors;
 CREATE TABLE Authors (Author_Id CHAR(4), Name CHAR(25), Fname CHAR(25));
 INSERT INTO Authors VALUES ('ALEX', 'Alexander', 'Christopher');
 INSERT INTO Authors VALUES ('BROO', 'Brooks', 'Frederick P.');

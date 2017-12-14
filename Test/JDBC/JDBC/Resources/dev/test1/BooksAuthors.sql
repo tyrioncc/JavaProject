@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS  BooksAuthors;
 CREATE TABLE BooksAuthors (ISBN CHAR(13), Author_Id CHAR(4), Seq_No INT);
 INSERT INTO BooksAuthors VALUES ('0-201-96426-0', 'DATE', 1);
 INSERT INTO BooksAuthors VALUES ('0-201-96426-0', 'DARW', 2);
