@@ -1,4 +1,4 @@
-package dev.test1;
+package dev.JDBCTest;
 
 import java.io.*;
 import java.util.*;
