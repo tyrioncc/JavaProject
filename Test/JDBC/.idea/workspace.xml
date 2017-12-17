@@ -2,18 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d2c8e22-3128-44c0-aacd-f5c56b963e2e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JDBC_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/JDBC_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JDBC/JDBC.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/JDBC.iml" afterPath="$PROJECT_DIR$/JDBC/JavaTest.iml" />
-      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/test1/Authors.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/test1/Books.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/test1/BooksAuthors.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/test1/Publishers.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/test1/ExecSQL.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/test1/GBC.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/test1/QueryDB.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/test1/TestDB.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/test1/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/JavaTest.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/JavaTest.iml" afterPath="$PROJECT_DIR$/JavaTest/JavaTest.iml" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Authors.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Authors.sql" afterPath="$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Authors.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Books.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Books.sql" afterPath="$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Books.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/BooksAuthors.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/BooksAuthors.sql" afterPath="$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/BooksAuthors.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Publishers.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Publishers.sql" afterPath="$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Publishers.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/pom.xml" afterPath="$PROJECT_DIR$/JavaTest/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/ExecSQL.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/ExecSQL.java" afterPath="$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/ExecSQL.java" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/GBC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/GBC.java" afterPath="$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/GBC.java" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/QueryDB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/QueryDB.java" afterPath="$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/QueryDB.java" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/TestDB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/TestDB.java" afterPath="$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/TestDB.java" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/dev/JDBCTest/readme.md" afterPath="$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/readme.md" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Authors.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Authors.sql" afterPath="$PROJECT_DIR$/JavaTest/target/classes/dev/test1/Authors.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Books.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Books.sql" afterPath="$PROJECT_DIR$/JavaTest/target/classes/dev/test1/Books.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/BooksAuthors.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/BooksAuthors.sql" afterPath="$PROJECT_DIR$/JavaTest/target/classes/dev/test1/BooksAuthors.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/ExecSQL.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/ExecSQL.class" afterPath="$PROJECT_DIR$/JavaTest/target/classes/dev/test1/ExecSQL.class" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Publishers.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/Publishers.sql" afterPath="$PROJECT_DIR$/JavaTest/target/classes/dev/test1/Publishers.sql" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/dev/test1/TestDB.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/JDBC/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,12 +142,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
@@ -132,7 +159,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -354,7 +380,8 @@
       <workItem from="1513067716105" duration="11553000" />
       <workItem from="1513217141480" duration="4506000" />
       <workItem from="1513229250599" duration="4199000" />
-      <workItem from="1513513431222" duration="109000" />
+      <workItem from="1513513431222" duration="518000" />
+      <workItem from="1513514173961" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="2017/12/14">
       <created>1513231689352</created>
@@ -363,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513231689352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2017/12/17">
+      <created>1513513611206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513513611206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20367000" />
+    <option name="totallyTimeSpent" value="20843000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,19 +416,20 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.48789713" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.45763993" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294893" sideWeight="0.5121029" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2737921" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16447368" sideWeight="0.48560768" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19818456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20121029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
@@ -408,7 +443,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.45763993" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -420,7 +454,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2017/12/14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017/12/14" />
+    <MESSAGE value="2017/12/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017/12/17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -429,7 +464,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/TestDB.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/TestDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1175">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="55" selection-end-column="48" />
@@ -437,26 +472,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/QueryDB.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/QueryDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3700">
           <caret line="148" column="31" lean-forward="true" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getConnection#0;class#QueryDBFrame#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/GBC.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/GBC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/ExecSQL.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/ExecSQL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1625">
           <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
@@ -466,7 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/TestDB.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/TestDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1175">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="55" selection-end-column="48" />
@@ -474,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/ExecSQL.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/ExecSQL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
           <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
@@ -491,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/pom.xml">
+    <entry file="file://$PROJECT_DIR$/JavaTest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
@@ -511,40 +541,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32233">
           <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Books.sql">
+    <entry file="file://$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Books.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/BooksAuthors.sql">
+    <entry file="file://$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/BooksAuthors.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Publishers.sql">
+    <entry file="file://$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Publishers.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/GBC.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/GBC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/TestDB.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/TestDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
@@ -552,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/readme.md">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="50">
@@ -562,26 +590,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/QueryDB.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/QueryDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-560">
           <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getConnection#0;class#QueryDBFrame#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/Resources/dev/JDBCTest/Authors.sql">
+    <entry file="file://$PROJECT_DIR$/JavaTest/Resources/dev/JDBCTest/Authors.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/dev/JDBCTest/ExecSQL.java">
+    <entry file="file://$PROJECT_DIR$/JavaTest/src/dev/JDBCTest/ExecSQL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3100">
           <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
