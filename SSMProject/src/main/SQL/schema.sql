@@ -20,7 +20,7 @@ CREATE TABLE `R6Teams`(
 CREATE TABLE `R6Players`(
   `player_id` BIGINT(20) NOT NULL COMMENT 'ID',
   `name` varchar(100) NOT NULL COMMENT '姓名',
-  `sex` enum('男','女','保密')default '保密' COMMENT '性别',
+  `sex` enum('male','female','secret')default 'secret' COMMENT '性别',
   `team_name` varchar(100) NOT NULL COMMENT '战队名称',
   `kd` FLOAT NOT NULL COMMENT '战力',
   PRIMARY KEY (`player_id`)

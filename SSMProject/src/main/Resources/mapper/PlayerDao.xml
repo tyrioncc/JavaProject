@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dev.dao.PlayerDao">
+    <select id="queryById" resultType="Player" parameterType="long">
+      SELECT
+          player_id, name, sex, team_name, kd
+      FROM
+          r6players
+      WHERE player_id = #{playerId}
+    </select>
+
+    <select id="queryAll" resultType="Player">
+        SELECT
+          player_id, name, sex, team_name, kd
+        FROM
+          r6players
+        ORDER BY
+            player_id
+        LIMIT #{offset}, #{limit}
+    </select>
+
+    <select id="queryAllByOrder" resultType="Player">
+        SELECT
+          player_id, name, sex, team_name, kd
+        FROM
+          r6players
+        ORDER BY
+          kd
+        LIMIT #{offset}, #{limit}
+    </select>
+
+
+</mapper>
